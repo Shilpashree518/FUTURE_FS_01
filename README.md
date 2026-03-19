@@ -33,5 +33,5 @@ resume.pdf – downloadable resume
 3. Run index.html using Live Server
 
 ## 👩‍💻 Author
-Shilpashree J  
-Computer Science Engineering Student
+Name: Shilpa Shree J
+CID: FIT/FEB26/FS11711
